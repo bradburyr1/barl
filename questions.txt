@@ -1,2 +1,15 @@
-How are you today? Good? Y/n: 
-Nice weather we're having, eh?  Y/n: 
+1) Is the website used for entertainment? 
+2) Does the website offer a paid subscription or version? 
+3) Is the website mostly used for any online searches?
+4) Is the website the largest out of its competitors?
+5) Does the website constantly feature very low prices for goods?
+6) Does the website hide posts from strangers?
+7) Is the website gaming related?
+8) Does the website regularly feature news on its homepage?
+9) Do memes usually occur on the website?
+10) Does the website offer free rewards?
+11) Can the website show adult-rated content?
+12) Is most of the website’s content uploaded by individual users?
+13) Is most of the website’s content made in Asia?
+14) Do big celebrities often use the website to communicate directly with their fans? 
+15) Does the website offer inboxes?
