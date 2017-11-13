@@ -35,7 +35,7 @@ if (answer == 'Y' or answer == 'y'):
 	tt = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 
 	#Open the CSV file for train data
-	with open('training_data_no_labels.csv', 'rt') as csvfile:
+	with open('training_data.csv', 'rt') as csvfile:
 		reader = csv.reader(csvfile, delimiter=',', quotechar='|')
 		i = 0
 		#Loop through the rows of the file
