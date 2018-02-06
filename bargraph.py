@@ -56,7 +56,9 @@ searchTot = int(analysis_data[5][1]) + int(analysis_data[6][1]) + int(analysis_d
 storeTot = int(analysis_data[8][1]) + int(analysis_data[9][1]) + int(analysis_data[10][1]) + int(analysis_data[11][1])
 streamTot = int(analysis_data[12][1]) + int(analysis_data[13][1]) + int(analysis_data[14][1]) + int(analysis_data[15][1])
 
-labels = "social", "search", "store", "stream"
+plt.rcParams.update({'font.size': 18})
+
+labels = "Social", "Search", "E-Commerce", "Stream"
 explode = (0, 0, 0, 0)  # explode any slice you want
 sizes = [socialTot, searchTot, storeTot, streamTot]
 colors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue']
